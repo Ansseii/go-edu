@@ -3,5 +3,4 @@
 Usage: `go run main.go <dir_path> [-f]`.
 
 `-f`  Show files, otherwise hide them.
-
-![usage](usage.png)
+<img src="usage.png" width="50%" height="50%">
