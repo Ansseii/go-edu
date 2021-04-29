@@ -1,0 +1,4 @@
+FROM golang:latest
+COPY . .
+RUN go env -w GO111MODULE=auto
+RUN go test -v
